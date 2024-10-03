@@ -4,7 +4,7 @@
 
 - 아래 두 권의 책을 여름방학 동안 끝내는 것을 목표로 진행하며 매주 1회 스터디장의 발표로 진행됩니다. 
   
-![image](https://github.com/user-attachments/assets/2ddd0374-3b8f-4596-a3a6-ad13c9f10390)
+- ![image](https://github.com/user-attachments/assets/2ddd0374-3b8f-4596-a3a6-ad13c9f10390)
 
 <br/>
 
