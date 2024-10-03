@@ -1,4 +1,4 @@
-# 강화 학습 스터디 자료 (Reinforcement Learning Study Materials)
+# 강화 학습 스터디 (Reinforcement Learning Study)
 - 이 리포지토리는 강화 학습(Reinforcement Learning)에 대한 스터디 자료를 포함하고 있습니다. 주요 내용은 강화 학습의 기초 개념부터 다양한 알고리즘에 이르기까지의 학습 내용을 다룹니다. 
 (Sponsor: [SUSC(Seasonal University Study & Communication)](https://www.susc.kr/))
 
