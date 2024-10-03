@@ -6,7 +6,7 @@
   
 ![image](https://github.com/user-attachments/assets/2ddd0374-3b8f-4596-a3a6-ad13c9f10390)
 
-<br/><br/>
+<br/>
 
 ## 주요 내용
 
@@ -23,7 +23,7 @@
 
 4. **심화 학습**  
    - DQN(Deep Q-Network), A3C(Asynchronous Advantage Actor-Critic) 등 심화된 알고리즘을 통해 강화 학습의 최신 연구 동향과 적용 사례를 학습합니다.
-
+<br/>
 ---
 
 
