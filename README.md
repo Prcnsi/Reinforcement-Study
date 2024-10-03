@@ -2,7 +2,7 @@
 - 이 리포지토리는 강화 학습(Reinforcement Learning)에 대한 스터디 자료를 포함하고 있습니다. 주요 내용은 강화 학습의 기초 개념부터 다양한 알고리즘에 이르기까지의 학습 내용을 다룹니다. 
 (Sponsor: [SUSC(Seasonal University Study & Communication)](https://www.susc.kr/))
 
-- 아래 두 권의 책을 여름방학 동안 끝내는 것을 목표로 진행하며 매주 1회 스터디장의 발표를 통해 강화학습의 기본기를 탄탄히 학습함
+- 아래 두 권의 책을 여름방학 동안 끝내는 것을 목표로 진행하며 매주 1회 스터디장의 발표로 진행됩니다. 
   
 ![image](https://github.com/user-attachments/assets/2ddd0374-3b8f-4596-a3a6-ad13c9f10390)
 
